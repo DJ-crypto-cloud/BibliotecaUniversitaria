@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\bin\Debug\B.exe.config
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\bin\Debug\B.exe
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\bin\Debug\B.pdb
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\B.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\BibliotecaUniversitaria.Presentacion.frmLibro.resources
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\BibliotecaUniversitaria.Presentacion.frmPrestamo.resources
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\BibliotecaUniversitaria.Presentacion.frmUsuario.resources
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\BibliotecaUniversitaria.Presentacion.MDIPrincipal.resources
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\B.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\B.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\B.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\B.exe
+C:\Users\LENOVO\Desktop\Programacion II\Proyectos\ProyectoVisualStudio\B\B\obj\Debug\B.pdb
